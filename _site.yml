@@ -1,0 +1,13 @@
+name: "about"
+navbar:
+  title: "Hanna Mogensen"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Team Effort"
+      href: team.html
+
+output:
+  html_document:
