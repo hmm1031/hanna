@@ -14,4 +14,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Conducting microplastic works takes a team effort. I am super grateful to the Moore Lab Group at the University of New Hampshire for all of their support!
 
-![](collage.png)
+![](docs/collage1.png)
